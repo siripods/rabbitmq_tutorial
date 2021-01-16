@@ -3,7 +3,7 @@ Tutorial for rabbit mq
 
 How to use
 1. Run setclasspath.bat to set CLASSPATH
-2. Run
+2. To compile,
 javac -cp %CP% <file.java>
-3. Run
+3. To Run
 java -c %CP <class file>
